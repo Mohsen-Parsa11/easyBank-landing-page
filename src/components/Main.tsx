@@ -36,8 +36,8 @@ function Main() {
       {/* why choose easy bank sectio */}
       <div className="bg-gray-100 py-20">
         <div className="container mx-auto space-y-5">
-          <h3 className="text-2xl md:text-4xl text-slate-700 text-center xl:text-left">Why choose EasyBank?</h3>
-          <p className="text-gray-400 w-65 md:w-xl mx-auto xl:mx-0 text-center lg:text-left">
+          <h3 className="text-2xl md:text-4xl text-slate-700 text-center lg:text-left lg:pl-12 xl:pl-0">Why choose EasyBank?</h3>
+          <p className="text-gray-400 w-65 md:w-xl mx-auto lg:mx-0 text-center lg:text-left lg:pl-12 xl:pl-0">
             We leverage open banking to turn your bank account into your
             financial hub. control your financial like never before
           </p>

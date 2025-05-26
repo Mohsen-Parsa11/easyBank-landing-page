@@ -5,3 +5,6 @@
 .gradient{
     background: linear-gradient(to right, hsl(136, 65%, 51%), hsl(192, 70%, 51%));
 }
+.hambergur{
+    background-color: rgba(39, 39, 39, 0.8);
+}
